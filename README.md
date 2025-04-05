@@ -5,8 +5,8 @@ This is a simple Python program with a graphical user interface (GUI) that attem
 ## What's Included
 
 - `Password_cracker.py` – the main Python script with the GUI and cracking logic
-- `hasla.txt` – a list of possible passwords (dictionary file)
-- `pliczek.zip` – a sample password-protected ZIP file for testing
+- `passwords.txt` – a list of possible passwords (dictionary file)
+- `zip_folder.zip` – a sample password-protected ZIP file for testing
 
 ## Features
 
