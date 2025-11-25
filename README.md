@@ -1,6 +1,6 @@
 # Password ZIP Cracker (Python)
 
-This is a simple Python program with a graphical user interface (GUI) that attempts to crack the password of a ZIP file using a brute-force method. It goes through a list of possible passwords provided in a text file.
+This is a simple Python program with a graphical user interface (GUI) that attempts to crack the password of a ZIP file using a dictionary attack method. It goes through a list of possible passwords provided in a text file.
 
 ## What's Included
 
